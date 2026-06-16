@@ -2,6 +2,8 @@
 
 **Docente(s):** Daniel R. Cssar, James Moraes de Almeida e Leandro Lemos.
 
+**Aluno(a):** Angelica Aracava Lopes, T26
+
 Ilum Escola de Ciência, CNPEM
 
 **Repositório para o Projeto Final da disciplina de Práticas em Ciências de Dados (PCD) da Turma 2026 (1ºSemestre de 2026).**
