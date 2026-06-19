@@ -7,9 +7,10 @@
 </p>
 
 
-# Caracterização composicional de sequências de DNA
+<h1 align="center">Caracterização Composicional de Sequências de DNA</h1>
 Projeto final da disciplina de Práticas em Ciências de Dados (PCD)- 1º Semestre de 2026 | Ilum Escola de Ciência (CNPEM)
 
+---
 
 ### **Descrição**
 Este projeto implementa, em Python, um conjunto de ferramentas para análise de sequências de DNA voltadas a aplicações em bioinformática. A partir de uma sequência de nucleotídeos fornecida pelo usuário (ou gerada aleatoriamente), o programa realiza validação, cálculo de composição de bases, busca de motifs relevantes, simulação de mutações pontuais e geração de relatórios textuais e gráficos, consolidando os resultados em um painel visual e em arquivos de saída.
@@ -28,6 +29,7 @@ Contagem de bases: calcula a frequência absoluta de cada nucleotídeo (A, T, C,
 - **Geração de painel gráfico:** cria visualizações (gráfico de barras da composição de bases, gráfico de pizza do conteúdo GC/AT e gráfico de linha do GC por janela deslizante), exportadas como imagem .png.
 - **Interface interativa via input:** permite ao usuário configurar individualmente o nome do indivíduo, a sequência (manual ou aleatória), motifs extras, taxa de mutação e opções de salvamento dos arquivos gerados.
 
+---
 
 ### **Tecnologias Utilizadas**
 - **collections (Counter) —** biblioteca padrão utilizada para contagem eficiente das bases nitrogenadas.
@@ -39,15 +41,23 @@ Contagem de bases: calcula a frequência absoluta de cada nucleotídeo (A, T, C,
 ---
 
 ## Professores
+### Daniel Roberto Cassar
+Doutorado: Ciência e Engenharia de Materiais (UFSCar) – Pós-doutorado: UFSCar. Área de atuação: Informática de materiais.
 
-- Daniel R. Cassar
-- James Moraes de Almeida
-- Leandro Lemos
+### James Moraes de Almeida
+Doutorado: Nanociências e Materiais Avançados (UFABC). Pós-Doutorado: UFABC, Ecole Polytechnique Fédérale de Lausanne, USP. Área de atuação: Computação de alto desempenho.
 
-## Autoria
-- Angelica Aracava Lopes
+### Leandro Nascimento Lemos
+Doutorado: Bioinformática e Ecologia de Microrganismos (USP). Pós-Doutorado: Laboratório Nacional de Computação Científica (LNCC), Unicamp e Universidade de Viena. Área de Atuação: Bioinformática e Ecologia Numérica.
 
 ---
+
+## Autoria
+### Angelica Aracava Lopes
+Técnica em Biotecnologia e estudante de Ciência e Tecnologia na Ilum Escola de Ciência.
+
+---
+
 ## Referências
 ALBERTS, Bruce et al. **Biologia molecular da célula**. 6. ed. Porto Alegre: Artmed, 2017.
 
