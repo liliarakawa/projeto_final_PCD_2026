@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="700" alt="Banner README - PCD_2026 (1)" src="https://github.com/user-attachments/assets/82dc5edc-1d50-4dc1-b42b-48f8e9ac4f11">
+  <img width="1000" alt="Banner README - PCD_2026 (1)" src="https://github.com/user-attachments/assets/f17b4bb1-2ed4-4b03-8965-3ab917a3a32c" />
 </p>
 
 <p align="center">
-  <img width="700" alt="Banner README - PCD_2026" src="https://github.com/user-attachments/assets/78148338-da5a-4e76-b4f3-04f28381e9e0" >
+ <img width="1000" alt="Banner README - PCD_2026" src="https://github.com/user-attachments/assets/0145de08-70eb-483f-bdc8-0a2610e5c58d" />
 </p>
 
 
