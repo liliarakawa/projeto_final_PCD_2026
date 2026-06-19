@@ -1,10 +1,13 @@
-<img width="500" height="70" alt="Banner README - PCD_2026 (1)" src="https://github.com/user-attachments/assets/82dc5edc-1d50-4dc1-b42b-48f8e9ac4f11" />
+<p align="center">
+  <img width="800" alt="Banner README - PCD_2026 (1)" src="https://github.com/user-attachments/assets/82dc5edc-1d50-4dc1-b42b-48f8e9ac4f11">
+</p>
 
 ---
 
-<img width="500" height="70" alt="Banner README - PCD_2026" src="https://github.com/user-attachments/assets/78148338-da5a-4e76-b4f3-04f28381e9e0" />
+<p align="center">
+  <img width="500" height="70" alt="Banner README - PCD_2026" src="https://github.com/user-attachments/assets/78148338-da5a-4e76-b4f3-04f28381e9e0">
+</p>
 
----
 
 # Caracterização composicional de sequências de DNA
 Projeto final da disciplina de Práticas em Ciências de Dados (PCD)- 1º Semestre de 2026 | Ilum Escola de Ciência (CNPEM)
