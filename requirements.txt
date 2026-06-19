@@ -1,0 +1,12 @@
+# Requisitos para reprodução do projeto: Caracterização composicional de sequências de DNA
+
+# Versão do Python recomendada: 
+	
+	Python >= 3.10
+ 
+# Bibliotecas externas (instale com: pip install -r requirements.txt)
+
+	matplotlib>=3.8
+ 
+# Observação: os módulos 'os', 'random' e 'collections' (Counter) fazem parte
+  da biblioteca padrão do Python e não precisam ser instalados separadamente.
