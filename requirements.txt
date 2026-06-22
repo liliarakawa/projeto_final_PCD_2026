@@ -2,7 +2,7 @@
 
 # Versão do Python recomendada: 
 	
-	Python >= 3.10
+	Python >= 3.13.7
  
 # Bibliotecas externas (instale com: pip install -r requirements.txt)
 
